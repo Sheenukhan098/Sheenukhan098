@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sheenukhan098
-- 👀 I’m interested in data analytics...
-- 🌱 I’m currently learning .data analytics..
+- 👋 Hi, I’m @Gokulprajapat
+- 👀 I’m interested in full stack web developer...
+- 🌱 I’m currently learning react js..
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me .akhtarshamim384@gmail.com..
+- 📫 How to reach me gokul.dabang@gmail.com..
 
 <!---
 Sheenukhan098/Sheenukhan098 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
